@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Meghnadutta, a 5th year physics major at IISER Kolkata, India
+- 👋 Hi, I’m @Meghnadutta, a 5th-year physics major (final year student) at IISER Kolkata, India
 - 👀 I’m interested in astronomy, earth and planetary science. 
 - 🌼 I also love dancing, art, sketching, graphic design, digital art and doing yoga :)
 - 🌱 I’m currently learning about atmospheric retrieval data for exoplanets!
